@@ -1,0 +1,50 @@
+Welcome to Maker Press!  This document is intented to help you get up to speed on what you'll need to know to write for us.
+
+http://www.methods.co.nz/asciidoc/index.html[AsciiDoc] is a text document format for writing notes, documentation, articles, books, ebooks, slideshows, web pages, man pages and blogs. The main advantage of AsciiDoc is that it plays well with DocBook, O'Reilly's native content format, but is something that you can actually write in.  
+
+This http://powerman.name/doc/asciidoc[Asciidoc cheat sheet] covers most of what you'll need to know.  As you'll see, AsciiDoc is most similar to wiki markup -- if you can write a wikipedia article, then you're pretty much 99% of the way there. 
+
+You can get the official guide for writing a full O'Reilly book in AsciiDoc from our Subversion repository:
+
+----
+svn checkout --username "odewahn@oreilly.com"
+ "https://prod.oreilly.com/internal/books/sandbox_odewahn_RT79726/current/tools/cookbook_demo.pdf"
+----
+
+I've also placed relevant files into the "samples" directory in this repository.  
+
+Edit the file, paying attention to how the markup is used:
+
+----
+== Used for a Chapter title
+=== Level 1 Heading
+==== Level 2 Heading
+===== Level 3 heading
+
+////
+this is a comment
+////
+
+This is a list:
+
+* item 1
+* item 2
+* item 3
+
+This is multi-level list:
+* Item 1
+** Item 1.a
+** Item 1.b
+* Item 2
+** Item 2.a
+** Item 2.b
+
+[[Identifier for making cross-refs]]
+.Caption title
+image::figs/filename.png[scaledwidth="75%"]
+
+There are many more styles you can use, but this should get you started.
+----
+
+
+
