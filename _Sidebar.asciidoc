@@ -1,7 +1,5 @@
 image:figs/make2.gif[]
 
-howdy!
-
 == Useful Links
 * [[TOC / Index |home]]
 * http://powerman.name/doc/asciidoc[AsciiDoc Cheat Sheet]
