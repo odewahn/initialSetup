@@ -47,4 +47,4 @@ There are many more styles you can use, but this should get you started.
 ----
 
 
-
+image:figs/3d_lake.png[]
