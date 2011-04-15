@@ -43,5 +43,16 @@ This is multi-level list:
 .Caption title
 image::figs/filename.png[scaledwidth="75%"]
 
+Tables are done like this:
+.An example table
+[width="40%",options="header"]
+|=============
+|col 1| col 2| col3
+|1  | 2 | 3
+|4  | 5 | 6
+|7  | 8  | 9
+|=============
+
+
 There are many more styles you can use, but this should get you started.
 ----
