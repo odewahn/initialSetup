@@ -9,7 +9,8 @@ image:_Logo.gif[]
 . http://example.com[Commit uploaded images]
 
 == Synch
-* http://www.example.com[Push repo to github]
+
+. https://intranet.oreilly.com/confluence/display/OCO/asciidoc-workflow-sync-github[Push repo to github]
 
 == Publish
 . [[Update book wrapper|book]]
