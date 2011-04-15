@@ -1,9 +1,5 @@
 Welcome to Maker Press!  This document is intented to help you get up to speed on what you'll need to know to write for us.
 
-hello there, world!!  This is a test line.  Now we're going to test pushing from gollum.
-sdfsdfsdf
-
-
 http://www.methods.co.nz/asciidoc/index.html[AsciiDoc] is a text document format for writing notes, documentation, articles, books, ebooks, slideshows, web pages, man pages and blogs. The main advantage of AsciiDoc is that it plays well with DocBook, O'Reilly's native content format, but is something that you can actually write in.  
 
 This http://powerman.name/doc/asciidoc[Asciidoc cheat sheet] covers most of what you'll need to know.  As you'll see, AsciiDoc is most similar to wiki markup -- if you can write a wikipedia article, then you're pretty much 99% of the way there. 

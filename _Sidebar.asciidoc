@@ -8,6 +8,9 @@ image:_Logo.gif[]
 . http://vmg044.west.ora.com/initialSetup/upload_image.html[Upload images]
 . http://example.com[Commit uploaded images]
 
+== Synch
+* http://www.example.com[Push repo to github]
+
 == Publish
 . [[Update book wrapper|book]]
 . https://intranet.oreilly.com/confluence/display/OCO/asciidoc-workflow-build-process[Start build process]
